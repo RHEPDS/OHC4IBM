@@ -9,7 +9,7 @@
 
 ## remote version v0623
 
-## https://www.menti.com/b9a8cuw2co		<img src="<img src="" width="80" height="80">"				
+## https://www.menti.com/b9a8cuw2co		<img src="<img src="https://github.com/RHEPDS/OHC4IBM/blob/main/mentimeter_qr_code.png" width="80" height="80">"				
 
 The purpose of this workshop is to show attendees the benefits of Red Hat ´ Open Hybrid Cloud architecture. Based on actual use cases the attendees will get insight into how to architect and build cloud solutions scaling from the on-premise environments out to geographical distributed public cloud environments.
 
