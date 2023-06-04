@@ -1,4 +1,4 @@
-<img src="https://github.com/alfbach/OCP_Arch/blob/master/logo.png" width="450" height="120">
+<img src="https://github.com/RHEPDS/OHC4IBM/blob/main/red-hat-IBM-logo.png" width="800" height="120">
 
 
 # Red Hat Open Hybrid Cloud 
